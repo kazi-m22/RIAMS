@@ -15,3 +15,5 @@ An IoT arrangement to control industry appliances: motor, generator etc. using  
   - Registorg.LED
   - Arduino
   - **Raspberry Pi**
+
+![](/interface.png)
