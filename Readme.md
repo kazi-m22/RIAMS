@@ -7,11 +7,11 @@ An IoT arrangement to control industry appliances: motor, generator etc. using  
   - Python
 
 Hardware tools:
-  a.DC motor
-  b.Servo motor 
-  c.Hall sensor
-  d.Thermistor
-  e.MOSFET(n type)
-  f.Registorg.LED
-  h.Arduino
-  i.**Raspberry Pi**
+  - DC motor 
+  - Servo motor
+  - Hall sensor
+  - Thermistor
+  - MOSFET(n type)
+  - Registorg.LED
+  - Arduino
+  - **Raspberry Pi**
