@@ -6,7 +6,7 @@ An IoT arrangement to control industry appliances: motor, generator etc. using  
   - Adafruit IO
   - Python
 
-Hardware tools:
+## Hardware tools:
   - DC motor 
   - Servo motor
   - Hall sensor
